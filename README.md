@@ -1,2 +1,3 @@
 # github-automation
-Used to test GitHub related automation
+
+Used for testing GitHub related automation.
